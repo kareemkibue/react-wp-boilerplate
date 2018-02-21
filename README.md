@@ -1,2 +1,2 @@
-# react-wp-boilerplate
-React/WP Boilerplate
+# React/WP Boilerplate
+Coming shortly..
